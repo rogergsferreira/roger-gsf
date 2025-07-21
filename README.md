@@ -15,7 +15,6 @@
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" height="115" alt="CSS3">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="130" height="130" alt="JavaScript" align="top">
 <!--   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap"> -->
-<img src="https://github.com/rogergsf/rogergsf/assets/139197687/2fcc5f2d-fb4d-4096-991b-0e608e594cec" width="120" alt="TypeScript">
 </table>
     </div>
 
