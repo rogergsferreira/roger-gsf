@@ -2,7 +2,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=2600&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=1000&lines=Hello+World!;I'm+Róger+Ferreira;I'm+a+Software+Developer;I'm+19+years+old;And+I'm+from+Brazil.;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=2600&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=1000&lines=Hello+World!;I'm+Róger+Ferreira;I'm+a+Software+Developer;I'm+19+years+old;And+I'm+from+Brazil.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <table>
   <a href="https://github.com/rogergsf">
